@@ -10,7 +10,7 @@
 
 4) Open this `README.md` file and remove exactly 1 word from the following sentence:
 
-This class is NOT the coolest class ever
+This class is the coolest class ever
 
 5) Use `git add` to let Git know that you've made changes to your two files: `success.txt` and `README.md`
 
